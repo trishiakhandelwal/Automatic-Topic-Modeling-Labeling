@@ -1,4 +1,4 @@
-# genAI_Project
+# Automatic Topic Modeling & Labeling
 Using LLMs to perform **automatic topic modeling and labeling** on a dataset provided by the user. It also allows for **queryable document retrieval**.
 
 **Note:** To use, you must add your OpenAI API key in the placeholder in `pipeline.py`.
